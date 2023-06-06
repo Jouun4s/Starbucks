@@ -182,6 +182,7 @@ section.sobre{
 .final ul li a img{
     margin: auto;
     width: 50%;
+    color: #fff;
 }
 
 .final ul li a:hover{
